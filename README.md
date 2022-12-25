@@ -10,7 +10,7 @@ les fonctions développer :
 6-Récupère une liste des livres ayant comme type {param}<br>
 7-Construction de la liste des genres<br>
 8-Recherche - Mise en relation d’entités :<br>
-&nbsp;relation 1:1 : annotée par @OneToOne<br>
-&nbsp;relation n:1 : annotée par @ManyToOne<br>
-&nbsp;relation 1:p : annotée par @OneToMany<br>
-&nbsp;relation n:p : annotée par @ManyToMany<br>
+&nbsp; relation 1:1 : annotée par @OneToOne<br>
+&nbsp; relation n:1 : annotée par @ManyToOne<br>
+&nbsp; relation 1:p : annotée par @OneToMany<br>
+&nbsp; relation n:p : annotée par @ManyToMany<br>
