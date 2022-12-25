@@ -1,6 +1,6 @@
 # ulco-theque
 <h1>EL MEHDI EL AINE</h1>
-les fonctions développer :
+<h3>les fonctions développer :</h3>
 
 1-l'ajout - suppression - modification d'un livre .<br>
 2-Affiche la page d’accueil<br>
